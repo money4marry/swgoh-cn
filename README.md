@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # swgoh
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# swgoh-cn
+>>>>>>> 393c958472f5d3150e52063eb7c44b2816cfe2bf
